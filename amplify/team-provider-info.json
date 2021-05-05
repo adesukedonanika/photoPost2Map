@@ -1,0 +1,15 @@
+{
+  "adesu": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-react-amplified-adesu-231240-authRole",
+      "UnauthRoleArn": "arn:aws:iam::145991712635:role/amplify-react-amplified-adesu-231240-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::145991712635:role/amplify-react-amplified-adesu-231240-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-react-amplified-adesu-231240-deployment",
+      "UnauthRoleName": "amplify-react-amplified-adesu-231240-unauthRole",
+      "StackName": "amplify-react-amplified-adesu-231240",
+      "StackId": "arn:aws:cloudformation:us-east-1:145991712635:stack/amplify-react-amplified-adesu-231240/f720d8f0-adab-11eb-bbb7-0e8b433be3dd",
+      "AmplifyAppId": "d1e3g7trinll7n"
+    }
+  }
+}
