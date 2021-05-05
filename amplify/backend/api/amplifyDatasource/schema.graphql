@@ -1,0 +1,10 @@
+type PhotoPost2Map @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  datetime: AWSDateTime
+  geojson: AWSJSON
+  direction: Float
+  dateJST: AWSDate
+  timeJST: AWSTime
+  elevation: Float
+  gnssfix: Boolean
+}
